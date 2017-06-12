@@ -303,7 +303,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 if (!isLocationEnabled()) {
                     setAlertMessage(getstringResource(R.string.DestAlertMessage));
                     setPositiveButtonLabel(getstringResource(R.string.DialogPositiveButtonLabel));
-                    setPositiveButtonLabel(getstringResource(R.string.DialogNegativeButtonLabel));
+                    setNegativeButtonLabel(getstringResource(R.string.DialogNegativeButtonLabel));
                     makeAlertMessage(getAlertMessage(), getPositiveButtonLabel()
                             , getNegativeButtonLabel(),
                             Settings.ACTION_LOCATION_SOURCE_SETTINGS);
