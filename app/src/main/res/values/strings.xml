@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Raye7Task</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="sourceTag" translatable="false">source</string>
+    <string name="destTag" translatable="false">destination</string>
+    <string name="SourceAlertMessage">Please Enter The Source Address!</string>
+    <string name="DestAlertMessage">Please Enter The destination Address!</string>
+    <string name="LocationMessage">Your GPS is disabled! Would you like to enable it?</string>
+    <string name="DialogPositiveButtonLabel">Enable GPS</string>
+    <string name="DialogNegativeButtonLabel">No Thanks</string>
+    <string name="ButtonLabelsColor" translatable="false">#1c8359</string>
+    <string name="TitleMessage">Please wait.</string>
+    <string name="Message">Finding direction..</string>
+    <string name="TimeMessage">"The Time That The Tripe will Take is</string>
+    <string name="connectionAlert">There is not Network!.Enable Wifi?</string>
+    <string name="eWifi">Enable Wifi</string>
+    <string name="notwifi">No Thanks</string>
+    <string name="current" translatable="false">current</string>
+    <string name="from" translatable="false">From</string>
+    <string name="sourceHint">Enter Your Source</string>
+    <string name="to" translatable="false">To     </string>
+    <string name="destinationHint" >Enter Your Distination</string>
+    <string name="car" translatable="false">Take My Car</string>
+    <string name="pick" translatable="false">Request A Pickup</string>
+    <string name="go" translatable="false">go</string>
+    <string name="label" translatable="false">Raye7Task</string>
+    <string name="title" translatable="false">Map</string>
+    <string name="utf" translatable="false">utf-8</string>
+
+
+
+</resources>
