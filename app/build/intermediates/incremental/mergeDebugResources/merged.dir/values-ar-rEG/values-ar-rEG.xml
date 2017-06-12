@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DestAlertMessage">من فضلك ادخل الجهة اللتى ستذهب اليها</string>
+    <string name="DialogNegativeButtonLabel">لا شكرا</string>
+    <string name="DialogPositiveButtonLabel">تشغيل ال GPS</string>
+    <string name="LocationMessage">ال GPS ليست مفعلة هل تريد التفعيل؟</string>
+    <string name="Message">"جارى ايجاد الجهة "</string>
+    <string name="SourceAlertMessage">من فضلك ادخل المكان اللذى تود الذهاب منه</string>
+    <string name="TimeMessage">"الوقت اللذى سوف تستغرقه الرحلة هو "</string>
+    <string name="TitleMessage">من فضلك انتظر قليلا</string>
+    <string name="connectionAlert">"لا يوجد شبكة هل تريد فتح الشبكة "</string>
+    <string name="destinationHint">ادخل الجهة الثانية</string>
+    <string name="eWifi">تمكين</string>
+    <string name="notwifi">لا شكرا</string>
+    <string name="sourceHint">"دخل الجهة الاساسية "</string>
+</resources>
