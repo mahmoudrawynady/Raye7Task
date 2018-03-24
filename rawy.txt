@@ -1,8 +1,15 @@
-ggkk
+ll;ll;ll'ggkk
 bfkjjewfwe ggg
 hhhhhkkklll
 fkangk
 h
 gfh
 hhhh
+<<<<<<< HEAD
 gghg
+||||||| merged common ancestors
+gghg
+=======
+gghg
+jjjhhjhkhj
+>>>>>>> first updated
